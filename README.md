@@ -4,4 +4,4 @@ Please don't judge the sheet and the remarks column (or do, I don't really care)
 Happy LeetCoding :)
 
 ### Sasta Humour
-![meme](/assets/meme.png)<br> 
+![meme](assets/meme.png)<br> 
